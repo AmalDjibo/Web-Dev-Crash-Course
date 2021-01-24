@@ -73,7 +73,7 @@ This is the basic code that **NEEDS** to be in every .html file
 
 ##### Find out more about the HTML Elements: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
-## Making A Basic Navagation
+## Making A Basic Web Page
 ```bash
 <!DOCTYPE html>
 <html lang="en">
@@ -81,19 +81,22 @@ This is the basic code that **NEEDS** to be in every .html file
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Our First Webpage</title>
+    <title>Our First Web Page</title>
 </head>
 
 <body>
     <header>
         <h1>Amal's World</h1>
     </header>
-    <nav> - Stuff
-        <ul>
+    <nav> - 'Navigation with links other pages within the website or links within the current web page'
+        <ul> - 'list of items where the order is not important' 
             <li>Home</li>
             <li>Contact</li>
         </ul>
     </nav>
+    <main> -'main section of a webpage'
+    
+    </main>
 
 </body>
 
