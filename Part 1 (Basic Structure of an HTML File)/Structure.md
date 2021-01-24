@@ -57,3 +57,45 @@ This is the basic code that **NEEDS** to be in every .html file
 ## Understanding HTML Elements
 ### Semantic vs. Non-Semantic Elements
 
+#### Semantic - can be easily understood by the browser and the user
+```bash
+<p></p> - The user and browser can easily tell that this is a paragraph on the web page
+<h1></h1> - Can be easily understood by the browser the user as the headline on the web page
+<head></head>
+<body></body>
+<footer></footer>
+```
+#### Non-Semantic - not so easily identifiable by the user and/or browser because they contain very specific code
+```bash
+<div></div>
+<span></span>
+```
+
+##### Find out more about the HTML Elements: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+## Making A Basic Navagation
+```bash
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our First Webpage</title>
+</head>
+
+<body>
+    <header>
+        <h1>Amal's World</h1>
+    </header>
+    <nav> - Stuff
+        <ul>
+            <li>Home</li>
+            <li>Contact</li>
+        </ul>
+    </nav>
+
+</body>
+
+</html>
+```
