@@ -42,7 +42,7 @@ Simply create a new folder for the name of the subpage. For example, a folder na
 
 #### File Paths
 
-##### Referencing a file that is in a folder within the same directory of the file your linking from
+##### Referencing a file that is in a folder within the same directory of the file your linking from:
 
 Lets say you wanted to link to your contact page from your home page, and the contact page was in "contact" named "contact.html" in the same directory as the the homepage.
 The proccess would be as follows:
