@@ -102,3 +102,8 @@ This is the basic code that **NEEDS** to be in every .html file
 
 </html>
 ```
+
+## HTML Documentation
+[HTML MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
