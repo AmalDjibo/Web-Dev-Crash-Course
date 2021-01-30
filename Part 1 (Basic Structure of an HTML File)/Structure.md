@@ -21,7 +21,7 @@ This is the basic code that **NEEDS** to be in every .html file
 <!DOCTYPE html>
 ```
 
-##### <html> tags - Everything goes under these tags
+##### html tags - Everything goes under these tags
 ```bash
 <!DOCTYPE html>
 <html>
@@ -30,8 +30,8 @@ This is the basic code that **NEEDS** to be in every .html file
 ```
 
 
-##### <head> tags - Contains background info about the web page that is required by the browser
-###### <meta> tag - Empty element (no closing tag), used for background info For example, the charset meta tag tells the browser what characters you're going to use. There is also the viewport meta tag which helps you web page scale to different devices
+##### head tags - Contains background info about the web page that is required by the browser
+###### meta tags - Empty element (no closing tag), used for background info For example, the charset meta tag tells the browser what characters you're going to use. There is also the viewport meta tag which helps you web page scale to different devices
 ```bash
 <!DOCTYPE html>
 <html>
@@ -41,7 +41,7 @@ This is the basic code that **NEEDS** to be in every .html file
 <head>
 </html>
 ```
-##### <body> tags - This is contains the stuff that we as users see on a webpage
+##### body tags - This is contains the stuff that we as users see on a webpage
 ```bash
 <!DOCTYPE html>
 <html>
