@@ -122,3 +122,12 @@ Favicons are added within the head element
     <link rel="shortcut icon" href="images/favicon.png">
 </head>
 ```
+
+### Commenting Out Code in HTML
+This can be useful if you have code that you need, but don't want to be rendered by the browser at the moment
+This can be achived by doing the following:
+```bash
+<body>
+    '<!--'<p>I SHOULD NOT BE DISPLAYED</p>'-->'
+</body>
+```
