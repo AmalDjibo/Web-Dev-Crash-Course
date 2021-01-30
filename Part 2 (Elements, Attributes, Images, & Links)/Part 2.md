@@ -115,5 +115,10 @@ Lets try to organized the code below a little bit better:
 What is better about the second verison?
 This makes the code 10x easier to comprehend and to make edits later.
 
-
-
+### Adding Favicons
+Favicons are added within the head element
+```bash
+<head>
+    <link rel="shortcut icon" href="images/favicon.png">
+</head>
+```
