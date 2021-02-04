@@ -1,4 +1,4 @@
-# HTML,CSS,JS Crash Course
+# Web Dev Crash Course
 This repository is a full comprehensive guide to HTML,CSS, & JS.
 
 ## Setup
