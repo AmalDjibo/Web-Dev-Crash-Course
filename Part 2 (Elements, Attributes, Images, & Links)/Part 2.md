@@ -131,3 +131,7 @@ This can be achived by doing the following:
     '<!--'<p>I SHOULD NOT BE DISPLAYED</p>'-->'
 </body>
 ```
+## HTML Documentation
+[HTML MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
