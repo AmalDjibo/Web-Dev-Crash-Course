@@ -17,7 +17,7 @@ Instruction Mannual of the website
 </html>
 ```
 
-### <head> tags
+### ```<head>``` tags
 - Contains metainfo (info processed by the browser)
     - Scripts you want to load
     - Stylesheet
