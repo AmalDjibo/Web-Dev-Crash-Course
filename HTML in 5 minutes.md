@@ -31,41 +31,41 @@ Instruction Mannual of the website
 
 ### Common HTML Elements 
 
-#### <h1>-<h6>
+#### ```<h1>-<h6>```
 Used for titles
 
-#### <p>
+#### ```<p>```
 Paragraps... pretty self-explantory
 
-#### <img>
+#### ```<img>```
 For images
 
-#### <a>
+#### ```<a>```
 Used for links
 
-#### <ol & <ul>
+#### ```<ol & <ul>```
 
-<ol> is used for a numbered list and <ul> are used for bulleted lists. Use <li> inside these for each item
+```<ol>``` is used for a numbered list and ```<ul>``` are used for bulleted lists. Use ```<li>``` inside these for each item
 
-#### <button>
+#### ```<button>```
 Buttons. duh...
 
-#### <forms>
+#### ```<forms>```
 Too much to explain go [here](https://github.com/AmalDjibo/Web-Dev-Crash-Course/tree/HTML/Part%203%20(Forms))
 
 ### Containter Elements
 Elements you go put content inside of and style that container
 
-#### <div>
+#### ```<div>```
 Sections
 
-#### <span>
+#### ```<span>```
 Inline text
 
-#### <style>
+#### ```<style>```
 Lets you write CSS inside HTML.
 
-#### <script>
+#### ```<script>```
 Lets you write or insert JS inside HTML.
 
 ### Attributes 
@@ -76,3 +76,14 @@ Attributes that work on any HTML tag
 
 ##### Classes 
 Lets you style and select elements in JS. You can apply multiple classes with just a space & reuse them across multiple elements.
+
+```
+<h1 class="hello"></h1>
+```
+
+##### IDs 
+Lets you style and select elements in JS. You can apply multiple classes with just a space & you cannot reuse them across multiple elements.
+
+```
+<h1 id="hello"></h1>
+```
