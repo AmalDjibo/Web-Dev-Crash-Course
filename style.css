@@ -1,10 +1,11 @@
 .parent {
 position: relative;
+height: 200vh;
 }
 
 .child-one {
-position: absolute;
-top: 0;
+position: fixed;
+top: 20px
 }
 
 .child-two {
